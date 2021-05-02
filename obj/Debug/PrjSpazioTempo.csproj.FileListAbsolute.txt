@@ -1,0 +1,10 @@
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\bin\Debug\PrjSpazioTempo.exe.config
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\bin\Debug\PrjSpazioTempo.exe
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\bin\Debug\PrjSpazioTempo.pdb
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\obj\Debug\PrjSpazioTempo.csprojAssemblyReference.cache
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\obj\Debug\PrjSpazioTempo.Form1.resources
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\obj\Debug\PrjSpazioTempo.Properties.Resources.resources
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\obj\Debug\PrjSpazioTempo.csproj.GenerateResource.cache
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\obj\Debug\PrjSpazioTempo.csproj.CoreCompileInputs.cache
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\obj\Debug\PrjSpazioTempo.exe
+C:\Users\silen\Documents\CorsoCisita\C#\Progetti\PrjSpazioTempo\obj\Debug\PrjSpazioTempo.pdb
